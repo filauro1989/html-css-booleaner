@@ -3,15 +3,18 @@ body {
     margin: 0;
 }
 
-.header {
+.header-logo {
     height: 100px;
     width: 100%;
     background-color: #4DA1FF;
     background-image: url(../img/pattern.png);
     background-size: 400px;
+
 }
 
 #logo-booleaner {
     height: 50px;
     padding-top: 40px;
     padding-left: 6px;
+}
+
