@@ -37,7 +37,7 @@ font-size: 36px;
 }
 
 .grey-text{
-    color: #c1c1c1;
+    color: grey;
 }
 
 .written-by {
@@ -92,4 +92,25 @@ table {
 
 .first-col {
     width: 200px;
+}
+
+.margin-bottom{
+    margin-bottom: 8px;
+}
+
+.last-images {
+    height: 140px;
+}
+
+.container {
+    position: relative;
+    text-align: left;
+    color: white;
+}
+
+.text-left {
+    position: absolute;
+    left: 15px;
+    top: 10px;
+    
 }
