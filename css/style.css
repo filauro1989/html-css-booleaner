@@ -71,3 +71,7 @@ font-size: 36px;
 .yellow-col {
     background-color: #FFFF00;
 }
+
+ul {
+    margin-left: -18px;
+}
