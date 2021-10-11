@@ -4,6 +4,15 @@ body {
     font-weight: bold;
 }
 
+header{
+    margin: 0;
+}
+
+main {
+    margin-left: 8px;
+
+}
+
 .header-logo {
     height: 90px;
     width: 100%;
@@ -20,7 +29,6 @@ body {
 }
 
 .titolo-testata {
-    margin-left: 5px;
     margin-top: -5px;
 }
 
@@ -46,10 +54,6 @@ font-size: 36px;
     margin-top: -15px;
 }
 
-.tim-pics {
-    margin-left: 5px;
-}
-
 #tim-1 {
     height: 330px;
 } 
@@ -63,15 +67,29 @@ font-size: 36px;
     line-height: 2px;
 }
 
-.first-lorem {
-    margin-left: 5px;
-
-}
-
 .yellow-col {
     background-color: #FFFF00;
 }
 
 ul {
-    margin-left: -18px;
+    margin-left: -23px;
+}
+
+table {
+    font-size: 16px;
+    border-collapse: collapse;
+}
+
+.table-title {
+    background-color: #1AAAE6;
+    color: white;
+    text-align: left;
+}
+
+.light-blue {
+    background-color: #B2E6F2;
+}
+
+.first-col {
+    width: 200px;
 }
