@@ -1,6 +1,7 @@
 body {
     height: 800px;
     margin: 0;
+    font-weight: bold;
 }
 
 .header-logo {
@@ -46,7 +47,7 @@ font-size: 36px;
 }
 
 .tim-pics {
-    padding-left: 5px;
+    margin-left: 5px;
 }
 
 #tim-1 {
@@ -60,4 +61,13 @@ font-size: 36px;
     margin-top: -5px;
     font-size: 12px;
     line-height: 2px;
+}
+
+.first-lorem {
+    margin-left: 5px;
+
+}
+
+.yellow-col {
+    background-color: #FFFF00;
 }
